@@ -1,5 +1,5 @@
 {
-    "CIS": {
+    "CIS.F": {
       "Name": "Cisco",
       "MC":"192",
       "rev":"54",
@@ -7,7 +7,7 @@
       "debt":"31",
       "cash":"19"
     },
-    "EXM": {
+    "EXM.F": {
         "Code": "EXM"
       }
 }
