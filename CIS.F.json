@@ -2,7 +2,7 @@
       "MC":"192",
       "rev":"54",
       "GP":"35",
-      "equity":"45",
-      "liability":"79",
-      "cash":"19"
+      "debt":"79",
+      "cash":"19",
+      "equity":"45"
 }
