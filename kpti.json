@@ -1,0 +1,52 @@
+{
+    "balance": {
+      "quarter": "Q1 25",
+      "price": 6.15,
+      "mc": 52,
+      "cash": 70,
+      "debt": 179,
+      "ev": 161,
+      "shares": 8.6,
+      "aPIC": 1381,
+      "ad": 1586,
+      "FCF": -39,
+      "runway": -1.795,
+      "note": "1.8 quartal oder 5 monate bis zum bankrott wenn keine kapitalerhöhung passiert"
+    },
+    "fundamentals": {
+      "2024": {
+        "rev": 145,
+        "cogs": 6,
+        "sga": 115,
+        "rnd": 143,
+        "net_loss": 76,
+        "shares": 8.4
+      },
+      "2023": {
+        "rev": 146,
+        "cogs": 5,
+        "sga": 131,
+        "rnd": 138,
+        "net_loss": 143,
+        "shares": 114
+      }
+    },
+    "pipeline": [
+      {
+        "drug": "xpovio",
+        "phase": "fda approved",
+        "indication": "blood cancer"
+      },
+      {
+        "drug": "selinexor",
+        "phase": "3",
+        "indication": "gebarmutterhalscar",
+        "catalyst": "2h 25",
+        "result": "topline"
+      }
+    ],
+    "other": {
+      "event": "1:12 reverse stock split"
+    }
+  }
+  
